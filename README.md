@@ -34,9 +34,8 @@
 
 ### 1️⃣ [AI Career Coach](https://github.com/dkm4339/AI-Carrer-Coach)
 A smart AI web app to generate resumes, cover letters, and mock interview questions.  
-**Tech Stack:** PERN, Prisma, NeonDB, Inngest, Clerk
-
----
+**Tech Stack:** PERN, Prisma, NeonDB, Inngest, Clerk  
+**Live Demo:** [ai-carrer-coach-five.vercel.app](https://ai-carrer-coach-five.vercel.app/)
 
 ### 2️⃣ [Shortify URL Shortener](https://github.com/dkm4339/Url-Shortner)
 A web app to shorten URLs and generate QR codes.  
