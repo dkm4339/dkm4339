@@ -1,6 +1,11 @@
 
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=435&lines=Hi%2C+I'm+Deepak+Maurya+%F0%9F%91%8B;Full+Stack+Developer+%7C+Web3+Enthusiast;Java+%7C+AI+%7C+AWS+Explorer)](https://git.io/typing-svg)
+
+</div>
+
 
 
 - 🌱 I’m currently learning **DSA & Advanced Java**
