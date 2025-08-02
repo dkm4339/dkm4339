@@ -3,8 +3,8 @@
 🚀 **B.Tech IT Student | Full Stack Developer | Web3 Enthusiast**
 
 - 🌱 I’m currently learning **DSA & Advanced Java**
-- 💻 I love building **AI & Web3 projects**
-- 📫 How to reach me: **your.email@example.com**
+- 💻 I love building **AI & Web Development projects**
+- 📫 How to reach me: **deepakm124578@gmail.com**
 - ⚡ Fun fact: I can debug faster after a cup of coffee ☕
 
 ### 🛠️ Skills
