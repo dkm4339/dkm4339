@@ -32,11 +32,11 @@
 
 ## 📂 Featured Projects
 
-### 1️⃣ [AI Career Coach](https://github.com/dkm4339/AI-Career-Coach)
+### 1️⃣ [AI Career Coach]([https://github.com/dkm4339/AI-Career-Coach])
 A smart AI web app to generate resumes, cover letters, and mock interview questions.  
 **Tech Stack:** PERN, Prisma, NeonDB, Inngest, Clerk
 
-![Project Demo](https://raw.githubusercontent.com/username/repo/main/demo.gif)
+![Project Demo](([https://github.com/dkm4339/AI-Carrer-Coach])
 
 ---
 
