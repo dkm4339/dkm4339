@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech IT @ **NIET, Greater Noida**
-- 💻 Passionate about **Web Development, AI, and Web3**
+- 💻 Passionate about **Web Development, AI**
 - 🌱 Currently learning **Advanced Java & DSA**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **deepakm124578@gmail.com**
 - ⚡ Fun fact: *I can debug faster after coffee ☕*
 
 ---
