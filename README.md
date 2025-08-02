@@ -40,7 +40,7 @@ A smart AI web app to generate resumes, cover letters, and mock interview questi
 
 ### 2️⃣ [Shortify URL Shortener](https://github.com/dkm4339/Url-Shortner)
 A web app to shorten URLs and generate QR codes.  
-**Tech Stack:** HTML, CSS, JavaScript, PHP, TinyURL API, QuickChart API
+**Tech Stack:** HTML, CSS, JavaScript, PHP, TinyURL API, QuickChart API.
 **Live at:** [Shortify URL Shortner](https://zippy-pegasus-ffd908.netlify.app/)
 
 ---
