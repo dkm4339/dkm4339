@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Deepak Maurya 👋
 
-<!--
-**dkm4339/dkm4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **B.Tech IT Student | Full Stack Developer | Web3 Enthusiast**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **DSA & Advanced Java**
+- 💻 I love building **AI & Web3 projects**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: I can debug faster after a cup of coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** Java, JavaScript, TypeScript, Python
+- **Web:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** MySQL, MongoDB, NeonDB
+- **Cloud & Tools:** AWS, Git, Docker
+
+### 📌 Featured Projects
+- [AI Career Coach](https://github.com/dkm4339/AI-Career-Coach)
+- [Shortify URL Shortener](https://github.com/dkm4339/Shortify)
+- [Portfolio Website](https://github.com/dkm4339/Portfolio)
+
+---
+
+⭐️ *Check my repositories and give a star if you like my work!*
