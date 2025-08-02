@@ -20,4 +20,7 @@
 
 ---
 
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkm4339&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkm4339&layout=compact&theme=radical)
+
 ⭐️ *Check my repositories and give a star if you like my work!*
