@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there, I'm Deepak Maurya 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=435&lines=Full+Stack+Developer+%7C+Web3+Enthusiast;Java+%7C+AI+%7C+AWS+Explorer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Full+Stack+Developer+%7C+Web3+Enthusiast;Java+%7C+AI+%7C+AWS+Explorer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,19 +32,21 @@
 
 ## 📂 Featured Projects
 
-### 1️⃣ [AI Career Coach]([https://github.com/dkm4339/AI-Career-Coach])
+### 1️⃣ [AI Career Coach](https://github.com/dkm4339/AI-Carrer-Coach)
 A smart AI web app to generate resumes, cover letters, and mock interview questions.  
 **Tech Stack:** PERN, Prisma, NeonDB, Inngest, Clerk
 
-![Project Demo](([https://github.com/dkm4339/AI-Carrer-Coach])
-
 ---
 
-### 2️⃣ [Shortify URL Shortener](https://github.com/dkm4339/Shortify)
+### 2️⃣ [Shortify URL Shortener](https://github.com/dkm4339/Url-Shortner)
 A web app to shorten URLs and generate QR codes.  
 **Tech Stack:** HTML, CSS, JavaScript, PHP, TinyURL API, QuickChart API
 
-![Shortify Demo](https://raw.githubusercontent.com/username/repo/main/demo.gif)
+---
+
+### 3️⃣ [Portfolio Website](https://github.com/dkm4339/Portfolio)
+My personal portfolio showcasing my projects and skills.  
+**Live at:** [deepakmaurya.netlify.app](https://deepakmaurya.netlify.app/)
 
 ---
 
@@ -65,14 +67,7 @@ A web app to shorten URLs and generate QR codes.
 
 ---
 
-## 🌄 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dkm4339/dkm4339/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
 ## 🌐 Portfolio
-Check out my portfolio here: **[deepakmaurya.dev](https://deepakmaurya.netlify.app/)**
+Check out my portfolio here: **[deepakmaurya.netlify.app](https://deepakmaurya.netlify.app/)**
 
 ⭐️ *If you like my work, consider giving my repos a star!*
